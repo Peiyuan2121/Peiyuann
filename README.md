@@ -1,4 +1,4 @@
-# HII,I'm peiyuannn
+<align=centre> HII,I'm peiyuannn
 `Student(University Technology Malaysia)`<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&pause=700&color=F7280B&center=true&vCenter=true&width=435&lines=I+am+currently+studying+;data+engineering+at+UTM)](https://git.io/typing-svg)
 <br>
@@ -18,7 +18,7 @@
 
 - Course 📅:Bachelor of Computer Science (Data Engineering)
 
-- Contact me at <a href=" peiyuan050821@gmail.com ">mail</a>
+- Contact me at peiyuan050821@gmail.com
 
 <br/>
 
