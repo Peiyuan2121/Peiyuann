@@ -8,6 +8,10 @@
 
 ---
 
+<div align="right">
+<img src="https://github.com/user-attachments/assets/ea619614-83d7-498e-9b91-1bb209f1e948" align="right" style="width: 30%" />
+</div>  
+
 ### About me
 - Birthday🌼: 21/08/2005
 
@@ -22,6 +26,7 @@
 - Contact me at peiyuan050821@gmail.com
 
 <br/>
+  
 
 ## School journey
 
@@ -33,7 +38,7 @@ Secondary School 🏫
 Pre-University 📚
 <pre>University Technology Malaysia - Foundation in Physical Science</pre>
 University 🎓
-<pre>University Technology Malaysia- Bachelor of Computer Science (Data Engineering) </pre>
+<pre>University Technology Malaysia- Bachelor of Computer Science (Data Engineering) </pre> 
 
 <hr>
 
