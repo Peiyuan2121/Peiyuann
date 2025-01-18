@@ -4,7 +4,11 @@
 <br>
 
 ## About me
--Birthday: 21/08/2005
+- Birthday: 21/08/2005
 
 -The place where I first meet the world【Hometown】: Segamat,Johor
+
+- Hobby :Playing basketball and dart
+
+- 
 <br/>
