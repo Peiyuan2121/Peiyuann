@@ -18,7 +18,7 @@
 
 - Course 📅:Bachelor of Computer Science (Data Engineering)
 
-- Contact me at <a href="peiyuan050821@gmail.com">mail</a>
+- Contact me at <a href=" peiyuan050821@gmail.com ">mail</a>
 
 <br/>
 
