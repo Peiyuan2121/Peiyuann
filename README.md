@@ -23,6 +23,8 @@
 
 - Course 📅:Bachelor of Computer Science (Data Engineering)
 
+- Now I'm one of the [PTUTM](https://www.instagram.com/ptutm?igsh=dDdmb2FteGFmenUy) member
+
 - Contact me at peiyuan050821@gmail.com
 
 <br/>
